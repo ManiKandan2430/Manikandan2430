@@ -81,11 +81,11 @@ What sets me apart? I don't just ask *how* things work — I dig into the **why*
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikandan2430&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikandan2430&theme=dark&hide_border=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Manikandan2430&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Manikandan2430&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan2430&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan2430&theme=dark&hide_border=false&layout=compact)
 
 </div>
 
@@ -95,17 +95,17 @@ What sets me apart? I don't just ask *how* things work — I dig into the **why*
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Manikandan2430&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Manikandan2430&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repos
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Manikandan2430&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manikandan2430&theme=react-dark&hide_border=true)
 
 </div>
 
